@@ -1,2 +1,1 @@
-# repo-test-001
-this is my first repository - week 2 of learning
+consider this a successful test of my GitHub authentication and configuration
